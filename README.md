@@ -1,4 +1,7 @@
 <a href="#">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=netromdk&theme=onedark&column=8&margin-w=0&no-frame=true&no-bg=false" />
+</a>
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=netromdk&count_private=true&show_icons=true&theme=slateorange&include_all_commits=true&hide_title=true" />
 </a>
 <a href="#">
